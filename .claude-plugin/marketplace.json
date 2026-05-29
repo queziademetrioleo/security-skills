@@ -1,0 +1,93 @@
+{
+  "name": "security-skills",
+  "owner": {
+    "name": "Quezia Demetrio",
+    "email": "queziademetrioleo@gmail.com"
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "description": "Security testing skills for web applications, APIs, AI/LLM systems and mobile — built for red team and security engineers"
+  },
+  "plugins": [
+    {
+      "name": "web-recon",
+      "version": "1.0.0",
+      "description": "Full web application reconnaissance: technology fingerprinting, endpoint discovery, JS bundle analysis, subdomain enumeration and attack surface mapping",
+      "author": {
+        "name": "Quezia Demetrio",
+        "url": "https://github.com/queziademetrioleo"
+      },
+      "source": "./plugins/web-recon"
+    },
+    {
+      "name": "api-security-audit",
+      "version": "1.0.0",
+      "description": "API security testing: authentication bypass, broken access control, CORS misconfig, rate limiting, exposed docs, IDOR, and sensitive data exposure",
+      "author": {
+        "name": "Quezia Demetrio",
+        "url": "https://github.com/queziademetrioleo"
+      },
+      "source": "./plugins/api-security-audit"
+    },
+    {
+      "name": "ai-llm-security",
+      "version": "1.0.0",
+      "description": "AI/LLM-specific security testing based on OWASP LLM Top 10: prompt injection, jailbreak, SSRF via tools, architecture exposure, model DoS and data poisoning",
+      "author": {
+        "name": "Quezia Demetrio",
+        "url": "https://github.com/queziademetrioleo"
+      },
+      "source": "./plugins/ai-llm-security"
+    },
+    {
+      "name": "firebase-security",
+      "version": "1.0.0",
+      "description": "Firebase-specific security audit: exposed API keys, Security Rules misconfig, user enumeration, authentication bypass and storage access control",
+      "author": {
+        "name": "Quezia Demetrio",
+        "url": "https://github.com/queziademetrioleo"
+      },
+      "source": "./plugins/firebase-security"
+    },
+    {
+      "name": "broken-auth-testing",
+      "version": "1.0.0",
+      "description": "Authentication and session management testing: token validation, session fixation, cookie security, credential stuffing, brute force and MFA bypass",
+      "author": {
+        "name": "Quezia Demetrio",
+        "url": "https://github.com/queziademetrioleo"
+      },
+      "source": "./plugins/broken-auth-testing"
+    },
+    {
+      "name": "injection-testing",
+      "version": "1.0.0",
+      "description": "Injection vulnerability testing: SQL, NoSQL, XSS (reflected/stored/DOM), command injection, SSTI and LDAP injection with payloads and remediation",
+      "author": {
+        "name": "Quezia Demetrio",
+        "url": "https://github.com/queziademetrioleo"
+      },
+      "source": "./plugins/injection-testing"
+    },
+    {
+      "name": "pentest-report",
+      "version": "1.0.0",
+      "description": "Generate structured penetration test reports in Markdown with CVSS scoring, proof-of-concept evidence, risk classification and remediation roadmap",
+      "author": {
+        "name": "Quezia Demetrio",
+        "url": "https://github.com/queziademetrioleo"
+      },
+      "source": "./plugins/pentest-report"
+    },
+    {
+      "name": "owasp-top10",
+      "version": "1.0.0",
+      "description": "Full OWASP Top 10 (2021) assessment workflow with checklists, test cases and evidence collection for each of the 10 risk categories",
+      "author": {
+        "name": "Quezia Demetrio",
+        "url": "https://github.com/queziademetrioleo"
+      },
+      "source": "./plugins/owasp-top10"
+    }
+  ]
+}

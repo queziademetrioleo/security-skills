@@ -1,0 +1,9 @@
+{
+  "name": "api-security-audit",
+  "version": "1.0.0",
+  "description": "API security testing: authentication bypass, broken access control, CORS misconfig, rate limiting, exposed docs, IDOR and sensitive data exposure",
+  "author": {
+    "name": "Quezia Demetrio",
+    "url": "https://github.com/queziademetrioleo"
+  }
+}

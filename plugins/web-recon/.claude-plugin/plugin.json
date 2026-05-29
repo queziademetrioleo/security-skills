@@ -1,0 +1,9 @@
+{
+  "name": "web-recon",
+  "version": "1.0.0",
+  "description": "Full web application reconnaissance: technology fingerprinting, endpoint discovery, JS bundle analysis, subdomain enumeration and attack surface mapping",
+  "author": {
+    "name": "Quezia Demetrio",
+    "url": "https://github.com/queziademetrioleo"
+  }
+}

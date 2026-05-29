@@ -1,0 +1,9 @@
+{
+  "name": "broken-auth-testing",
+  "version": "1.0.0",
+  "description": "Authentication and session management testing: token validation, JWT attacks, session fixation, cookie security, brute force protection and MFA bypass",
+  "author": {
+    "name": "Quezia Demetrio",
+    "url": "https://github.com/queziademetrioleo"
+  }
+}

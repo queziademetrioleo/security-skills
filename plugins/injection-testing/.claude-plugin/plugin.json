@@ -1,0 +1,9 @@
+{
+  "name": "injection-testing",
+  "version": "1.0.0",
+  "description": "Injection vulnerability testing: SQL, NoSQL, XSS (reflected/stored/DOM), command injection, SSTI and LDAP injection with payloads and remediation",
+  "author": {
+    "name": "Quezia Demetrio",
+    "url": "https://github.com/queziademetrioleo"
+  }
+}

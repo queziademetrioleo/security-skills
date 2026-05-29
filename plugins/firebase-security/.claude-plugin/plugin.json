@@ -1,0 +1,9 @@
+{
+  "name": "firebase-security",
+  "version": "1.0.0",
+  "description": "Firebase-specific security audit: exposed API keys, Security Rules misconfig, user enumeration, Firestore/Storage access control and authentication bypass",
+  "author": {
+    "name": "Quezia Demetrio",
+    "url": "https://github.com/queziademetrioleo"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "owasp-top10",
+  "version": "1.0.0",
+  "description": "Full OWASP Top 10 (2021) assessment workflow with checklists, test cases and evidence collection for all 10 risk categories",
+  "author": {
+    "name": "Quezia Demetrio",
+    "url": "https://github.com/queziademetrioleo"
+  }
+}
