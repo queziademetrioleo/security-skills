@@ -1,0 +1,9 @@
+{
+  "name": "llm-api-security",
+  "version": "1.0.0",
+  "description": "Security testing for applications that use LLM APIs (OpenAI, Anthropic, Gemini, Cohere): API key exposure, proxy bypass, cost abuse, model enumeration, system prompt extraction and response manipulation",
+  "author": {
+    "name": "Quezia Demetrio",
+    "url": "https://github.com/queziademetrioleo"
+  }
+}

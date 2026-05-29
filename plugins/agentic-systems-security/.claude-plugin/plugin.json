@@ -1,0 +1,9 @@
+{
+  "name": "agentic-systems-security",
+  "version": "1.0.0",
+  "description": "Security testing for multi-agent AI systems: agent impersonation, tool abuse, orchestrator bypass, inter-agent trust exploitation, session isolation and unintended code execution via agent tools",
+  "author": {
+    "name": "Quezia Demetrio",
+    "url": "https://github.com/queziademetrioleo"
+  }
+}

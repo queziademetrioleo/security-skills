@@ -88,6 +88,46 @@
         "url": "https://github.com/queziademetrioleo"
       },
       "source": "./plugins/owasp-top10"
+    },
+    {
+      "name": "rag-security",
+      "version": "1.0.0",
+      "description": "Security testing for RAG pipelines: document poisoning, embedding manipulation, retrieval bypass, cross-tenant data leakage and context injection via uploaded documents",
+      "author": {
+        "name": "Quezia Demetrio",
+        "url": "https://github.com/queziademetrioleo"
+      },
+      "source": "./plugins/rag-security"
+    },
+    {
+      "name": "agentic-systems-security",
+      "version": "1.0.0",
+      "description": "Security testing for multi-agent AI systems (LangGraph, CrewAI, AutoGen, Google ADK): tool abuse, agent impersonation, orchestrator bypass, session isolation and privilege escalation via tool chaining",
+      "author": {
+        "name": "Quezia Demetrio",
+        "url": "https://github.com/queziademetrioleo"
+      },
+      "source": "./plugins/agentic-systems-security"
+    },
+    {
+      "name": "llm-api-security",
+      "version": "1.0.0",
+      "description": "Security testing for apps using LLM APIs (OpenAI, Anthropic, Gemini): API key exposure, proxy bypass, cost abuse, model enumeration and system prompt extraction",
+      "author": {
+        "name": "Quezia Demetrio",
+        "url": "https://github.com/queziademetrioleo"
+      },
+      "source": "./plugins/llm-api-security"
+    },
+    {
+      "name": "ai-model-security",
+      "version": "1.0.0",
+      "description": "Security testing for AI/ML model deployments: model extraction and stealing, membership inference, training data extraction, adversarial inputs and ML supply chain risks",
+      "author": {
+        "name": "Quezia Demetrio",
+        "url": "https://github.com/queziademetrioleo"
+      },
+      "source": "./plugins/ai-model-security"
     }
   ]
 }

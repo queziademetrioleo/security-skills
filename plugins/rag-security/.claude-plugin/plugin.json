@@ -1,0 +1,9 @@
+{
+  "name": "rag-security",
+  "version": "1.0.0",
+  "description": "Security testing for RAG (Retrieval-Augmented Generation) pipelines: document poisoning, embedding manipulation, retrieval bypass, context injection and data leakage via retrieval",
+  "author": {
+    "name": "Quezia Demetrio",
+    "url": "https://github.com/queziademetrioleo"
+  }
+}

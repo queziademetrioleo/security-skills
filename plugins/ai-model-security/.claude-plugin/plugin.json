@@ -1,0 +1,9 @@
+{
+  "name": "ai-model-security",
+  "version": "1.0.0",
+  "description": "Security testing for AI model deployments: model extraction/stealing, membership inference, training data extraction, adversarial inputs, model inversion and supply chain risks in ML pipelines",
+  "author": {
+    "name": "Quezia Demetrio",
+    "url": "https://github.com/queziademetrioleo"
+  }
+}

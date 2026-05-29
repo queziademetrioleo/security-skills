@@ -6,16 +6,32 @@ Built for security engineers, red teamers and developers who want structured, re
 
 ## Skills Available
 
+### AI Security (OWASP LLM Top 10)
+
+| Skill | Description |
+|-------|-------------|
+| [`ai-llm-security`](./plugins/ai-llm-security) | Core OWASP LLM Top 10: prompt injection, jailbreak, SSRF via tools, architecture exposure, model DoS |
+| [`rag-security`](./plugins/rag-security) | RAG pipelines: document poisoning, retrieval bypass, cross-tenant leakage, context injection |
+| [`agentic-systems-security`](./plugins/agentic-systems-security) | Multi-agent systems (LangGraph, CrewAI, ADK): tool abuse, orchestrator bypass, privilege escalation |
+| [`llm-api-security`](./plugins/llm-api-security) | LLM API wrappers (OpenAI, Anthropic, Gemini): key exposure, proxy bypass, cost abuse, prompt extraction |
+| [`ai-model-security`](./plugins/ai-model-security) | Model deployments: extraction/stealing, membership inference, training data extraction, adversarial inputs |
+
+### Web and API Security (OWASP Top 10)
+
 | Skill | Description |
 |-------|-------------|
 | [`web-recon`](./plugins/web-recon) | Reconnaissance, fingerprinting, JS bundle analysis, attack surface mapping |
 | [`api-security-audit`](./plugins/api-security-audit) | Auth bypass, CORS, rate limiting, IDOR, exposed docs |
-| [`ai-llm-security`](./plugins/ai-llm-security) | Prompt injection, jailbreak, SSRF via tools, OWASP LLM Top 10 |
 | [`firebase-security`](./plugins/firebase-security) | Exposed API keys, Security Rules, user enumeration |
 | [`broken-auth-testing`](./plugins/broken-auth-testing) | Token validation, session security, brute force, MFA bypass |
 | [`injection-testing`](./plugins/injection-testing) | SQL, XSS, command injection, SSTI |
-| [`pentest-report`](./plugins/pentest-report) | Structured markdown reports with CVSS, PoC and remediation |
-| [`owasp-top10`](./plugins/owasp-top10) | Full OWASP Top 10 (2021) assessment workflow |
+| [`owasp-top10`](./plugins/owasp-top10) | Full OWASP Top 10 (2021) assessment checklist |
+
+### Reporting
+
+| Skill | Description |
+|-------|-------------|
+| [`pentest-report`](./plugins/pentest-report) | Structured markdown reports with CVSS, PoC and remediation roadmap |
 
 ## Installation
 
